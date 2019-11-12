@@ -1,0 +1,3 @@
+margaritha = 350
+farmhouse = 400
+maxicangreen = 500

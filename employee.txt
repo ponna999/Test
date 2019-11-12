@@ -1,0 +1,10 @@
+Praneeth guptha MALE
+Sumit Agarwal   MALE
+Rakesh   MALE
+Anusha   FEMALE
+Kamal    MALE
+Vinodh  MALE
+Ananda  MALE
+Jyothi FEMALE
+Archana FEMALE
+Deepika  FEMALE

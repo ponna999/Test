@@ -1,0 +1,3 @@
+onion = 20
+corn = 40
+chicken = 50

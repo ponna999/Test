@@ -1,0 +1,32 @@
+Hello All,
+
+Here is the MAV report for Register 19SP1 Drop1 Extension Packages and related features.
+
+Tested ExPs and versions:
+
+
+ROBOT test report:
+
+See attached report for NDS 17SP1:
+
+Hint regarding failed test cases in NDS 17SP1 report:
+- 6 failed test cases are known or sporadic or corrected meantime
+
+Additional Remarks:
+
+•	Upgraded from Register 19 Final drop to Register 19SP1 drop1
+•	Status of generic test cases:
+o	Check-PGW-error-log-after-PGW-restart – Passed
+o	Check-NDS-alarm-after-NDS-restart - Passed
+o	Web GUI tests (basic tests) – Passed
+o	Relocation test - Passed
+o	MultiSIM – Passed
+o	SDS Counter tests – Passed
+o	PGW Performance tests - Passed
+o	ExP Fallback – not supported by Register 19 release
+
+MAV status: Passed
+
+Regards
+Praneeth
+

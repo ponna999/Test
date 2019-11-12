@@ -1,0 +1,4 @@
+instance1 2019-03-01 09:05:41,065  INFO (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-4] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,098  INFO (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,249  INFO (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,287  INFO (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status

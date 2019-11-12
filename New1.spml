@@ -1,0 +1,505 @@
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000000</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000001</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000002</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000003</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000004</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000005</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000006</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000007</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000008</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000009</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000010</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000011</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000012</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000013</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000014</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000015</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000016</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000017</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000018</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000019</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000020</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000021</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000022</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000023</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000024</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000025</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000026</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000027</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000028</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000029</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000030</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000031</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000032</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000033</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000034</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000035</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000036</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000037</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000038</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000039</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000040</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000041</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000042</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000043</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000044</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000045</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000046</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000047</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000048</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000049</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000050</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000051</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000052</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000053</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000054</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000055</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000056</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000057</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000058</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000059</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000060</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000061</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000062</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000063</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000064</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000065</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000066</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000067</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000068</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000069</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000070</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000071</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000072</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000073</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000074</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000075</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000076</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000077</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000078</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000079</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000080</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000081</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000082</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000083</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000084</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000085</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000086</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000087</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000088</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000089</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000090</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000091</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000092</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000093</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000094</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000095</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000096</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000097</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000098</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000099</identifier>
+</request>
+<request xsi:type="spml:DeleteRequest">
+<version>LI_3GPPHSS_v10</version>
+<objectclass>Interception</objectclass>
+<identifier alias="imsi">12111222000100</identifier>
+</request>

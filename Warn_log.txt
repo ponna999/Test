@@ -1,0 +1,12 @@
+instance1 2019-03-01 09:05:42,304  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,333  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,355  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,373  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,391  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,417  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,435  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,453  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,471  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,481  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,490  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
+instance1 2019-03-01 09:05:42,500  WARN (ModuleActionHandler.java:checkSPMLTagConfiguration:162) [RMS-ONENDS-5] | deploymentDescriptorTableDH is null so returning AllowMapping status
